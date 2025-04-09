@@ -45,8 +45,8 @@ Welcome to my GitHub profile! I'm a passionate developer and problem-solver with
 
 ## Badges & Achievements:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sridevi-coder62&layout=compact&theme=radical)
-[![Sridevi's Profile Trophy](https://github-profile-trophy.vercel.app/?username=Sridevi-coder62&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sridevi-coder62&layout=compact&theme=Codedark)
+[![Sridevi's Profile Trophy](https://github-profile-trophy.vercel.app/?username=Sridevi-coder62&theme=Codedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
