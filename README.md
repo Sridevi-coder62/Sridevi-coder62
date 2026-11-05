@@ -144,16 +144,23 @@ I enjoy transforming raw data into meaningful insights, building predictive mode
   <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sridevi-coder62&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </p>
 
-## 🔥 CONTRIBUTION STREAK
+<h2 align="center">🔥 CONTRIBUTION STREAK</h2>
 
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=Sridevi-coder62&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=Sridevi-coder62&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
-## 📈 CONTRIBUTION ACTIVITY
+<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sridevi-coder62&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sridevi-coder62&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
 </p>
 
 <p align="center">
