@@ -1,178 +1,181 @@
-# 👩‍💻 Sridevi K | Data Analyst • Data Science • AI
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&text=Turning%20Data%20Into%20Insights&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Artificial%20Intelligence&descAlignY=75&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:6A5ACD&height=200&section=header&text=Sridevi%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20Artificial%20Intelligence&descAlignY=58&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A7CFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Data+Analyst+%7C+Data+Science+Enthusiast;Turning+Raw+Data+into+Meaningful+Insights;Exploring+Machine+Learning+%26+Generative+AI;Building+Intelligent+Data-Driven+Solutions" alt="Typing Animation"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sridevi-k-/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
   <a href="https://github.com/Sridevi-coder62">
-    <img src="https://img.shields.io/badge/GitHub-Sridevi--coder62-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/sridevi-k/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Sridevi-coder62&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Sridevi-coder62&style=for-the-badge&color=6A5ACD&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 ABOUT ME
 
-I'm a **BCA Analytics graduate** passionate about transforming complex datasets into actionable business insights and developing intelligent, data-driven solutions.
+Hi! I'm **Sridevi K**, a BCA Analytics graduate passionate about Data Analytics, Data Science, Artificial Intelligence, and solving real-world business problems.
 
-My interests span Data Analytics, Business Intelligence, Data Science, Machine Learning, Generative AI, and Cloud Computing.
+I enjoy transforming raw data into meaningful insights, building predictive models, developing interactive dashboards, and exploring AI-powered applications.
 
-🎓 BCA Analytics Graduate – Kristu Jayanti (Deemed to be University), Bengaluru
+- 🎓 BCA Analytics Graduate – Kristu Jayanti (Deemed to be University), Bengaluru
+- 💼 Data Science Trainee – Dr. Reddy's Foundation (Grow Tech)
+- 📊 Interested in Data Analytics, Business Intelligence & Predictive Analytics
+- 🤖 Exploring Machine Learning, Generative AI, LLMs & Agentic AI
+- ☁️ Learning AWS Cloud, PySpark & Big Data Technologies
+- 🎯 Career Goal: Data Analyst | Junior Data Scientist | BI Analyst
 
-💼 Data Science Trainee – Dr. Reddy's Foundation (Grow Tech)
-
-📊 Experienced in working with analytical projects involving customer behavior, predictive modelling, dashboards, and process mining.
-
-🤖 Exploring AI-powered applications, LLMs, Agentic AI, and automated business intelligence.
-
-☁️ Expanding my knowledge of AWS, PySpark, and cloud-based data solutions.
-
-🎯 **Career Objective:** Seeking entry-level opportunities in Data Analytics, Data Science, and Business Intelligence where I can apply my technical skills to solve real-world business problems.
+**My approach:** Combine analytical thinking, technical skills, and business understanding to turn data into actionable decisions.
 
 ---
 
-## 💡 What I Bring to the Table
+## 🛠️ TECHNICAL SKILLS
 
-| Area | Capabilities |
-|---|---|
-| Data Analytics | Data Cleaning, EDA, Statistical Analysis, Data Interpretation |
-| SQL & Databases | SQL, SQLite, MongoDB |
-| Visualization | Power BI, Tableau, Qlik |
-| Programming | Python, R, SQL |
-| Machine Learning | Regression, Classification, Random Forest, Predictive Modelling |
-| Big Data | PySpark, Apache Spark |
-| AI & Gen AI | LangChain, LLMs, Generative AI, AI Agents |
-| Cloud | AWS EC2, S3, IAM, VPC, RDS, SageMaker, Bedrock |
-| Development | Streamlit, Git, GitHub, Docker |
+**Programming & Databases**
 
----
-
-## 🛠️ Tech Stack
-
-### Programming & Data Analysis
 <p>
-<img src="https://skillicons.dev/icons?i=python,r,mysql,mongodb" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,mongodb,sqlite"/>
 </p>
 
-### Data Science & Visualization
+**Data Analytics & Visualization**
+
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python%20Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-### Big Data, AI & Cloud
+**Machine Learning, AI & Big Data**
+
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
+
+**Cloud & Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode"/>
+</p>
+
+**AWS Services:** EC2, S3, EFS, IAM, VPC, ELB, Auto Scaling, CloudWatch, RDS, DynamoDB, Aurora, Route 53, SageMaker and Bedrock.
 
 ---
 
-## 📌 Featured Projects
+## 🚀 FEATURED PROJECTS
 
-### 01. WoodCorp – Order-to-Cash Process Mining
-**Celonis | Process Mining | Business Analytics**
+### 📊 01. WoodCorp – Order-to-Cash Process Mining
 
-- Analyzed **19,953 customer orders** to identify operational inefficiencies.
+**Technologies:** Celonis | Process Mining | Business Analytics
+
+- Analyzed **19,953 customer orders**.
 - Developed three interactive analytical dashboards.
-- Investigated late deliveries, contractor performance, and revenue-at-risk.
-- Used KPIs, Process Explorer, and drill-down analysis to support business insights.
+- Identified late deliveries, contractor performance issues, and revenue-at-risk.
+- Applied KPIs, Process Explorer, and drill-down analysis.
 
-🔗 [View GitHub Repository](https://github.com/Sridevi-coder62/woodcorp-o2c-celonis-capstone)
+🔗 [View Project Repository](https://github.com/Sridevi-coder62/woodcorp-o2c-celonis-capstone)
 
-### 02. Telecom Customer Churn Analysis
-**Python | SQL | Power BI | SQLite**
+### 📈 02. Telecom Customer Churn Analysis
+
+**Technologies:** Python | SQL | Power BI | SQLite
 
 - Analyzed **7,000+ telecom customer records**.
-- Explored subscription patterns, customer activity, and usage behavior.
-- Identified potential churn indicators and customer retention opportunities.
-- Translated analytical findings into actionable business insights.
+- Explored subscription patterns, customer behavior, and usage trends.
+- Identified potential churn indicators.
+- Generated insights to support customer retention strategies.
 
-### 03. Student Performance Prediction
-**Python | Scikit-learn | Machine Learning**
+### 🤖 03. Student Performance Prediction
+
+**Technologies:** Python | Machine Learning | Scikit-learn
 
 - Applied Random Forest and Logistic Regression.
-- Explored student performance patterns through data analysis.
-- Built predictive models to investigate student performance outcomes.
+- Explored student performance patterns.
+- Developed predictive models to analyze student outcomes.
 
-### 04. Powerlifting Analytics Dashboard
-**Power BI | Data Visualization | Data Analytics**
+### 🏋️ 04. Powerlifting Analytics Dashboard
+
+**Technologies:** Power BI | Data Analytics | Data Visualization
 
 - Analyzed **8,482 competitions and approximately 136K lifter records**.
 - Explored athlete performance and competition trends.
-- Designed visualizations to communicate performance insights.
+- Designed interactive visualizations for performance analysis.
 
-### 05. Spotify & YouTube Analytics
-**Python | SQL | Power BI**
+### 🧠 05. AI-Powered Business Intelligence
 
-- Explored large-scale music and video engagement datasets.
-- Analyzed streams, views, likes, and content engagement.
-- Investigated digital content performance trends.
-
-### 06. AI-Powered Business Intelligence
-**Python | Streamlit | Ollama | LangChain | AutoGen**
+**Technologies:** Python | Streamlit | Ollama | LangChain | AutoGen
 
 - Developing an AI-powered business intelligence application.
-- Exploring multi-agent data analysis workflows.
-- Building interactive KPI dashboards and visualizations.
+- Exploring multi-agent workflows for automated data analysis.
+- Integrating interactive dashboards and KPI visualizations.
 - Working towards automated PDF and Excel report generation.
 
-📂 Explore my projects: [GitHub Repositories](https://github.com/Sridevi-coder62?tab=repositories)
+### 🎵 06. Spotify & YouTube Analytics
+
+**Technologies:** Python | SQL | Power BI
+
+- Explored music and video engagement datasets.
+- Analyzed streams, views, likes, and engagement patterns.
+- Investigated digital content performance trends.
+
+📂 [Explore All My GitHub Projects](https://github.com/Sridevi-coder62?tab=repositories)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GITHUB STATISTICS
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sridevi-coder62&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridevi-coder62&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sridevi-coder62&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridevi-coder62&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=Sridevi-coder62&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Sridevi-coder62&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sridevi-coder62&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sridevi-coder62&theme=tokyonight&no-frame=true&no-bg=true&column=6" width="100%" alt="GitHub Trophies"/>
 </p>
 
-### 📈 Contribution Activity
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sridevi-coder62&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sridevi-coder62&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## 🎓 Certifications & Professional Development
+## 🎓 CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
 
-- ITC Infotech STEM Education Program – Data Analytics (Grade A)
-- Microsoft Power BI
-- Google Analytics – Beginner & Intermediate
-- UiPath Certified Developer Associate
-- Celonis Business Analyst, Technical Analyst & Automation Analyst
-- Qlik Learning and Datathon Participation
-- Agentic AI and RPA Development
+- 🏅 ITC Infotech STEM Education Program – Data Analytics (Grade A)
+- 📊 Microsoft Power BI
+- 📈 Google Analytics – Beginner & Intermediate
+- 🤖 UiPath Certified Developer Associate
+- ⚙️ Celonis Business Analyst, Technical Analyst & Automation Analyst
+- 📚 Qlik Learning and Datathon Participation
+- 🧠 Agentic AI and RPA Development
 
 ---
 
-## 🔬 Research Interests
+## 🔬 RESEARCH INTERESTS
 
-Explored and contributed to academic research in:
+Explored research topics across emerging technologies:
 
 - Large Language Model (LLM) Chatbots
 - Blockchain and Web3
@@ -182,10 +185,10 @@ Explored and contributed to academic research in:
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 CURRENTLY LEARNING
 
-- Advanced SQL and Python
-- PySpark and Big Data Analytics
+- Advanced Python and SQL
+- PySpark and Big Data Processing
 - Machine Learning and Model Deployment
 - Generative AI and Agentic AI
 - LangChain and Multi-Agent Systems
@@ -194,18 +197,23 @@ Explored and contributed to academic research in:
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 LET'S CONNECT
 
-I'm actively looking for opportunities to contribute, learn, and grow in the technology industry.
+I'm actively seeking opportunities to apply my analytical and technical skills, collaborate with teams, and grow in the technology industry.
 
-**Open to:** Data Analyst | Junior Data Scientist | BI Analyst | Data Analytics Associate
+**Open to Opportunities:**
+
+- Data Analyst
+- Junior Data Scientist
+- Business Intelligence Analyst
+- Data Analytics Associate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sridevi-k/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/sridevi-k-/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Sridevi-coder62">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -220,5 +228,11 @@ I'm actively looking for opportunities to contribute, learn, and grow in the tec
 </p>
 
 <p align="center">
-  ⭐ Thank you for visiting my profile! Let's connect and build something impactful.
+  ⭐ Thank you for visiting my GitHub profile! Let's connect and build something impactful.
+</p>
+
+<!-- ================= FOOTER ANIMATION ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:6A5ACD&height=110&section=footer" width="100%"/>
 </p>
