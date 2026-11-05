@@ -136,30 +136,30 @@ I enjoy transforming raw data into meaningful insights, building predictive mode
 
 ---
 
+
 ## 📊 GITHUB STATISTICS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sridevi-coder62&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridevi-coder62&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Sridevi-coder62&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sridevi-coder62&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+</p>
+
+## 🔥 CONTRIBUTION STREAK
+
+<p align="center">
+  <img width="65%" src="https://streak-stats.demolab.com?user=Sridevi-coder62&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+## 📈 CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sridevi-coder62&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Sridevi-coder62&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <i>Consistently learning, building, and contributing!</i>
 </p>
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sridevi-coder62&theme=tokyonight&no-frame=true&no-bg=true&column=6" width="100%" alt="GitHub Trophies"/>
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sridevi-coder62&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-</p>
-
----
 
 ## 🎓 CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
 
